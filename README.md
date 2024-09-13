@@ -1,4 +1,4 @@
-### 👋 Hi there! I am Miguel Martins
+### 👋 Olá, meu nome é Miguel Martins
 
 [![Linkedin Badge](https://img.shields.io/badge/-miguelmartins-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/miguelmartinsferreira/)](https://www.linkedin.com/in/miguelmartinsferreira/) 
 [![Instagram Badge](https://img.shields.io/badge/-@ferreiraxzz-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/ferreiraxzz/)](https://www.instagram.com/ferreiraxzz/) 
