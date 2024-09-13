@@ -1,7 +1,7 @@
 ### 👋 Olá, meu nome é Miguel Martins
 
 [![Linkedin Badge](https://img.shields.io/badge/-miguelmartins-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/miguelmartinsferreira/)](https://www.linkedin.com/in/miguelmartinsferreira/) 
-[![Instagram Badge](https://img.shields.io/badge/-@ferreiraxzz-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/ferreiraxzz/)](https://www.instagram.com/ferreiraxzz/) 
+[![Instagram Badge](https://img.shields.io/badge/-@ferreira.xzz-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/ferreira.xzz/)](https://www.instagram.com/ferreira.xzz/) 
 [![Gmail Badge](https://img.shields.io/badge/-martinsmiguel147@gmail.com-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:guilhermedeamorimmedeiros@yahoo.com.br)](mailto:martinsmiguel147@gmail.com)
 
 - 🔬 Front-end Developer
