@@ -33,24 +33,17 @@ Atualmente migrando de infraestrutura para desenvolvimento, com foco em **Java b
 ## Stack
 
 #### Desenvolvimento 
-<p>
-  [![Desenvolvimento](https://skillicons.dev/icons?i=java,js,html,css,mysql)](https://skillicons.dev)
-</p>
+[![Desenvolvimento](https://skillicons.dev/icons?i=java,js,html,css,mysql)](https://skillicons.dev)
 
 #### Infraestrutura 
-<p>
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-</p>
 
-#### Ferramentas
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ps)](https://skillicons.dev)
-</p>
+#### Ferramentas 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ps)](https://skillicons.dev)
 
 #### Aprendendo agora 
-<p>
 [![My Skills](https://skillicons.dev/icons?i=ts,python,spring)](https://skillicons.dev)
-</p>
+
 ---
 
 ## Projetos
