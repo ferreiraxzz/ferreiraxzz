@@ -12,7 +12,7 @@
   <a href="mailto:martinsmiguel147@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/ferreira.xzz">
+  <a href="https://instagram.com/flameszn_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
