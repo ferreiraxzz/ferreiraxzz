@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelmartinsferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-miguelmartinsferreira-0077B5?style=flat&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:martinsmiguel147@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-martinsmiguel147-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://instagram.com/ferreira.xzz">
-    <img src="https://img.shields.io/badge/Instagram-@ferreira.xzz-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
